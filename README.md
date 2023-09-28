@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, World👋 I'm Kamil!
+
+- 🔭 I’m currently working on two Spring Boot projects - [Report-App](https://github.com/tolkien111/report-app) and [Advance Searcher](https://github.com/tolkien111/Java) (the second project is currently being developed in a private repository in collaboration with a mentor)
+- 🌱 I’m currently learning 
 
 <!--
 **tolkien111/tolkien111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
