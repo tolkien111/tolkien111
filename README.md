@@ -1,6 +1,6 @@
 ### Hello, World👋 I'm Kamil!
 
-- 🔭 I am currently focusing my attention on my work at JFeeSoft, and in my free time, I am working on two Spring Boot projects - [Report-App](https://github.com/tolkien111/report-app) and [Advance Searcher](https://github.com/tolkien111/Java)
+- 🔭 I am currently focusing my attention on my work at [JFeeSoft](https://www.linkedin.com/company/jfeesoft/), and in my free time, I am working on two Spring Boot projects - [Report-App](https://github.com/tolkien111/report-app) and [Advance Searcher](https://github.com/tolkien111/Java)
 - 🌱 I’m currently learning <img src="5968282.png" width="25px" height="25px"> <img src="images.png" width="25px" height="25px"> <img src="Git-Icon-1788C.png" width="25px" height="25px">  <img src="hibernate-icon-491x512-qd6jy16p.png" width="24px" height="25px"> <img src="5968342.png" width="24px" height="25px"> <img src="Circleci-icon-logo.svg.png" width="24px" height="25px"> <img src="image_processing20210621-20379-lcpbgk.png" width="24px" height="25px">
 - 📫 How to reach me: kamil.baronowski@gmail.com or [LinkedIn](https://www.linkedin.com/in/kamil-baronowski/)
 - 🎯 Goal for 2024 is to __find a new job__ as a junior Java developer
